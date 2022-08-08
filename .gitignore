@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+Example001_HelloConsole\obj\Debug\net6.0
