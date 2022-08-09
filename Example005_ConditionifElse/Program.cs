@@ -1,6 +1,3 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
-
-
 Console.Write("Введите имя пользователя: ");
 string username = Console.ReadLine();
 
